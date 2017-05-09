@@ -1,1 +1,3 @@
-# social_data_final_project
+Link to webpage: https://skuliskula.github.io/SDAFinalProject/
+
+Webpage's root: https://github.com/SkuliSkula/SDAFinalProject/
